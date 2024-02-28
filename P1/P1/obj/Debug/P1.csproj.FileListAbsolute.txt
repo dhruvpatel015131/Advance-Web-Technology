@@ -1,0 +1,17 @@
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\bin\Debug\P1.exe.config
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\bin\Debug\P1.exe
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\bin\Debug\P1.pdb
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.csproj.AssemblyReference.cache
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.FrmEmp.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.Properties.Resources.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.csproj.GenerateResource.cache
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.exe
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.pdb
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.SpeedConversion.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.LeapYearCheck.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.AbstractClass.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.Inheritance.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.Indexer.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.StringManipulators.resources
+D:\FyMCA Sem 2\AdvanceWebTechnology\P1\P1\obj\Debug\P1.SalaryCalculation.resources
